@@ -1,75 +1,81 @@
-🌟 Feliz David Ferrão Tunda
-
-
-Desenvolvedor Web | Análise de Sistemas | Aspirante a Cientista de Dados
+# 🌟Feliz David Ferrão Tunda  
+## _Web Developer & Technical Support Specialist_
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=felixdavidwebdev&show_icons=true&theme=radical" alt="Feliz's GitHub Stats" width="400">
 
 
 
-🧩 Sobre Mim
 
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://github.com/felixdavidwebdev)
 
-Sou um desenvolvedor web apaixonado por transformar desafios complexos em soluções inovadoras e estratégicas. Com formação em Análise e Desenvolvimento de Sistemas pela Universidade Cidade de São Paulo, venho explorando diversas áreas da tecnologia, desde o desenvolvimento de interfaces gráficas até a análise de dados.
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/felixdavidwebdev)
 
+Especialista em TI com habilidades em Desenvolvimento Web, Suporte Técnico e Análise de Sistemas. Habilidade em Java, Python, React.js, Node.js, MySQL, C#, JavaScript, HTML, CSS e AWS.
 
+- **Buscando oportunidades**: Desenvolvedor, Suporte Técnico, Estágio em TI.
+- **Contribuições Ativas**: Desenvolvimento de sistemas, suporte técnico, e análise de dados.
+- 🌟 **Sempre aprendendo!**
 
-📊 Minhas Habilidades
+## 🌟 **Destaques do Perfil**
 
+- **Experiência**: Suporte Técnico, Desenvolvimento Web Full Stack, Análise de Sistemas.
+- **Ferramentas e Tecnologias**: AWS, Git, GitHub, React.js, Node.js.
+- **Certificações**: Java, Python, Power BI, FrontEnd e BackEnd.
 
+## 📊 **Contribuições Recentes**
 
-🚀 Minha Trajetória
+![Gráfico de Contribuições](https://activity-graph.herokuapp.com/graph?username=felixdavidwebdev&theme=redical)
 
+## 🚀 **Projetos Recentes**
 
-🌱 Atualmente estudando Re/Start 2 da AWS para me especializar em soluções de computação em nuvem.
+| Projeto | Descrição |
+| ------ | ------ |
+| [Desafio do Projeto iPhone](https://github.com/felixdavidwebdev/Desafio-do-Projecto-iPhone) | Diagrama UML e implementação em Java |
+| [Controle Financeiro](https://github.com/felixdavidwebdev/controle-financeiro) | Aplicação web para gestão financeira com Node.js e React |
+| [Análise de Dados com Python](https://github.com/felixdavidwebdev/analise-dados-python) | Scripts para análise de dados |
 
+## 📚 **Formação e Certificações**
 
-🏅 Concluí o curso Fundamentos de Tecnologia pela Escola da Nuvem, abordando Redes, Git, GitHub e muito mais.
+- **Análise e Desenvolvimento de Sistemas**: DESCOMPLICA Faculdade Digital (2024-2025)
+- **Certificações**: Java, Python, Power BI, FrontEnd e BackEnd.
 
+## 🛠️ **Habilidades Técnicas**
 
-💼 Experiência em ambientes dinâmicos e colaborativos, atuando em home office com equipes de diferentes fusos horários.
+- **Linguagens**: Java, Python, JavaScript, C#, HTML, CSS
+- **Frameworks**: React.js, Node.js
+- **Banco de Dados**: MySQL
+- **Ferramentas**: Git, GitHub, AWS, Microsoft 365
+- **Sistemas Operacionais**: Windows, macOS
 
+## 📝 **Instalação e Uso dos Projetos**
 
-🎯 Objetivos Futuros
+1. Clone o repositório:
 
+```sh
+git clone https://github.com/felixdavidwebdev/seu-projeto.git
+```
 
-🔍 Migrar para a área de Análise de Dados.
+2. Instale as dependências:
 
+```sh
+npm install
+```
 
-🚀 Aplicar minhas habilidades para desenvolver soluções inovadoras que gerem impacto positivo e crescimento para as organizações.
+3. Execute o projeto:
 
+```sh
+npm start
+```
 
-💬 Vamos nos Conectar!
+## 🔍 **Contato**
 
+- **Email**: [felixdavidwebdev@example.com](mailto:fdtundiano17@gmail.com)
+- **LinkedIn**: [Feliz David Ferrão Tunda](https://www.linkedin.com/in/felixdavid2024/)
 
+## 🎉 **Licença**
 
-📈 Contribuições Recentes
+MIT License
 
-✨ Projetos Destacados
+---
 
-
-Nome do Projeto 1: Desafio-do-Projecto-iPhone (https://github.com/felixdavidwebdev/Desafio-do-Projecto-iPhone.git)
-
-
-Nome do Projeto 2: Desafio-de-Modelagem-e-Diagrama-o-de-Componente-iPhone
-
-Este repositório contém a modelagem e diagramação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet, conforme apresentado no vídeo de lançamento do iPhone de 2007.
-
-Funcionalidades a Modelar
-
-
--Reprodutor Musical Métodos: tocar(), pausar(), selecionarMusica(String musica)
-
-/Aparelho Telefônico Métodos: ligar(String numero), atender(), iniciarCorreioVoz()
-
-
--Navegador na Internet
-
-
--Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
-
-Objetivo
-
-O objetivo deste desafio é criar um diagrama UML que represente as funcionalidades descritas acima e implementar as classes e interfaces correspondentes em Java..
-🎨 
