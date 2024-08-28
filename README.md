@@ -25,7 +25,7 @@ Especialista em TI com habilidades em Desenvolvimento Web, Suporte Técnico e An
 
 ## 📊 **Contribuições Recentes**
 
-![Gráfico de Contribuições](https://activity-graph.herokuapp.com/graph?username=felixdavidwebdev&theme=redical)
+[Gráfico de Contribuições](https://activity-graph.herokuapp.com/graph?username=felixdavidwebdev&theme=redical)
 
 ## 🚀 **Projetos Recentes**
 
@@ -70,8 +70,8 @@ npm start
 
 ## 🔍 **Contato**
 
-- **Email**: [felixdavidwebdev@example.com](mailto:fdtundiano17@gmail.com)
-- **LinkedIn**: [Feliz David Ferrão Tunda](https://www.linkedin.com/in/felixdavid2024/)
+- **Email**: [fdtundiano17@gmail.com](mailto:fdtundiano17@gmail.com)
+- **LinkedIn**: [Félix David](https://www.linkedin.com/in/felixdavid2024/)
 
 ## 🎉 **Licença**
 
