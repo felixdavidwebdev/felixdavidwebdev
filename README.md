@@ -1,5 +1,5 @@
 # 🌟Feliz David Ferrão Tunda  
-## _Web Developer & Technical Support Specialist_
+## _Web Developer / Systems Analyst Technical / Support Specialist_
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=felixdavidwebdev&show_icons=true&theme=radical" alt="Feliz's GitHub Stats" width="400">
@@ -25,7 +25,7 @@ Especialista em TI com habilidades em Desenvolvimento Web, Suporte Técnico e An
 
 ## 📊 **Contribuições Recentes**
 
-[Gráfico de Contribuições](https://activity-graph.herokuapp.com/graph?username=felixdavidwebdev&theme=redical)
+![Gráfico de Contribuições](https://activity-graph.herokuapp.com/graph?username=felixdavidwebdev&theme=redical)
 
 ## 🚀 **Projetos Recentes**
 
@@ -53,7 +53,7 @@ Especialista em TI com habilidades em Desenvolvimento Web, Suporte Técnico e An
 1. Clone o repositório:
 
 ```sh
-git clone https://github.com/felixdavidwebdev/seu-projeto.git
+git clone https://github.com/felixdavidwebdev/Desafio-do-Projeto-iPhone
 ```
 
 2. Instale as dependências:
